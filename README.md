@@ -12,5 +12,5 @@ Cisco Packet Tracer projects involving VLSM subnetting, DHCP configuration(switc
 ## 2. Segmented LAN (VLSM Optimization)
 
 - Topology: 2 Routers, 4 Switches, 4 PCs
-- Addressing: VLSM on IP class 192.168.100.0/24 (Subnets 58,29,15,7 hosts)
+- Addressing: VLSM on IP class 192.168.72.0/24 (Subnets 58,29,15,7 hosts)
 - Configuration: DHCP pools on both routers 
